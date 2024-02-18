@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Moxon & Gale among 16 to leave Yorkshire",
+      "description": "Director of cricket Martyn Moxon, coach Andrew Gale and all members of the coaching staff are among 16 people to leave Yorkshire amid the racism scandal.",
+      "url": "http://www.bbc.co.uk/sport/cricket/59518669",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+      "publishedAt": "2021-12-03T12:07:25.3898801Z",
+      "content": "Director of cricket Martyn Moxon, head coach Andrew Gale and all members of the coaching staff are among 16 people to have left Yorkshire amid the racism scandal.\r\nA report found former player Azeem … [+667 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "title": "Fake-Meat Industry Eyes Crickets, Beetles, Mealworms, Maggots for Burgers",
+      "description": "",
+      "url": "https://www.bloomberg.com/news/articles/2021-12-03/fake-meat-industry-eyes-crickets-beetles-mealworms-maggots-for-burgers",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/03/e37cd591-5ad1-4d92-81b3-c3cc2932aea6/thumbnail/1200x675/ddbf75bef3a80ac9e7ef63e1c579d5fc/new-team.jpg",
+      "publishedAt": "2021-12-03T05:01:00+00:00",
+      "content": ""
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
