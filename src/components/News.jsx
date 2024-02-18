@@ -79,7 +79,7 @@ const [totalResults, setTotalResults] = useState(0)
         >
           <div className="container">
             <div className="row">
-              {articles.map((element) => {
+              {articles && articles.length>0 && articles.map((element) => {
                 return (
                   <div className="col-md-4" key={element?.url}>
                     <NewsItem
