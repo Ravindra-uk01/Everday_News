@@ -12,6 +12,8 @@ As a temporary measure, I'm sharing a screenshot of the localhost front page to 
 
 ![Localhost Front Page](src/assets/frontpage.png)
 
+![Deployed Link](https://everydaynews01.netlify.app/)
+
 Future Plans
 I am actively working on resolving the CORS policy issue to offer a seamless live demonstration of the project. Stay tuned for updates!
 
